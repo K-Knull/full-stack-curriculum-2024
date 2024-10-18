@@ -24,7 +24,7 @@ Navigate to a directory where you'd like to keep all your projects. If you haven
 
 4. Set the **forked** repo's upstream URL, allowing you to pull changes from the **main** repository:
     ```bash
-    git remote add upstream https://github.com/tpeo/full-stack-curriculum-2024.git
+    git remote add upstreamThis week’s readings got me thinking about how ancient civilizations saw the cosmos and how much it shaped their lives. I found it interesting in *The Human Cosmos* how people didn’t just see the stars as far-off objects, but as things that directly impacted their everyday lives, like farming and even how they built cities. Hendel’s translation of Genesis 1-11 also gave me a new way to look at the creation story—it made me think more about the symbolism and its structure. Halpern’s article on “The Assyrian Astronomy of Genesis 1” was super interesting, especially the connections between the Bible’s creation story and ancient Assyrian ideas. I’ll admit, though, that the astronomy parts were a bit tricky for me since they were a bit outside my comfort zone.
     ```
 
 5. Verify that the forked repo has the following remote properties by running:
